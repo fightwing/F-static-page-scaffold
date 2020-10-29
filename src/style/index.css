@@ -18,3 +18,52 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+.header {
+  height: 70px;
+  background-color: #3b5998;
+  color: white;
+}
+
+.register-button{
+  background-color: #42b72a;
+  color: white;
+}
+.logo{
+  font-size: xx-large;
+}
+
+.header-left{
+  margin-left: 200px;
+  margin-top: 12.5px;
+  float: left;
+}
+
+.header-right{
+  margin-right: 200px;
+  margin-top: 12.5px;
+  float: right;
+}
+
+.content{
+  margin-left: 200px;
+  width: 981px;
+}
+.block{
+  margin-left: 200px;
+  margin-right: 200px;
+  display: inline-flex
+}
+.block1 {
+  text-align: center;
+  width: 600px;
+  height: 500px;
+  margin-top: 200px;
+  margin-right: 200px;
+}
+.block2{
+  text-align: center;
+  width: 600px;
+  height: 500px;
+  margin-top: 200px;
+}
